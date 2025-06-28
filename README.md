@@ -7,7 +7,7 @@ This project aims to predict whether a bank client will respond to marketing com
 ## 📂 Repository Structure
 
 bank-marketing-prediction/
-├── data/ # All project data
+├── data.txt # link to the data for the project. Note: after downloading the data move it to the folder 'data'
 ├── eda.ipynb # Exploratory Data Analysis
 ├── clusterization.ipynb # Customer Segmentation
 ├── modeling.ipynb # Predictive Modeling
